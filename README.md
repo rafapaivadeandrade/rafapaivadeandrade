@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rafael Paiva De Andrade</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c1c1c1c1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+Am+Rafael+Paiva;Full+Stack+Developer+:%29)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack developer from Brazil</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
+<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif)" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelpaivadeandrade" alt="rafaelpaivadeandrade" /></a> </p>
 
