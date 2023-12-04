@@ -1,6 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c1c1c1c1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+Am+Rafael+Paiva;Full+Stack+Developer+:%29)](https://git.io/typing-svg)
-<img align="right" alt="GIF" height="160px" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+Am+Rafael+Paiva;Full+Stack+Developer+:%29)](https://git.io/typing-svg)
+<img align="right" alt="GIF" height="190px" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif" />
 
 
 - 🔭 I’m currently working on **Secret Company's Apps**
