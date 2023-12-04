@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [rafapaivadeandrade (Rafael Paiva)](rafapaivadeandrade (Rafael Paiva))
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **rafa_klose@hotmail.com**
 
